@@ -1,6 +1,5 @@
 <!--_navbar.md -->
 
-
 * **[Setup](Setup.md)**
 
 * **[AxonClient](AxonClient.md)**
