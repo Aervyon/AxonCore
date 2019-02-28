@@ -45,6 +45,10 @@ All methods useful and usable everywhere.
 #### new Utils()
 Creates an Utils instance.
 
+| Param | Type | Default | Description |
+| --- | --- | --- | --- |
+| client | <code>Object.&lt;AxonClient&gt;</code> |  | AxonClient instance |
+
 <a id="splitmessage"></a>
 
 ### splitMessage(content) ⇒ <code>Array.&lt;String&gt;</code> \| <code>String</code>

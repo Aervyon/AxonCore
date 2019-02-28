@@ -53,6 +53,9 @@
 | AxonUtil | <code>Object</code> | Util methods (Axon) |
 | Utils | <code>Object</code> | Utils methods (general) |
 | configs | <code>Object</code> | configs (axon, template, _tokens) [GETTER: _configs] |
+| configs.axon | <code>Object</code> | Axon config (general) |
+| configs.template | <code>Object</code> | Template config |
+| configs._tokens | <code>Object</code> | Tokens config |
 | blacklistedUsers | <code>Set.&lt;String&gt;</code> | Cached blacklisted users |
 | blacklistedGuilds | <code>Set.&lt;String&gt;</code> | Cached blacklisted guilds |
 | staff | <code>Object</code> | Object of bot staff (user IDs) (owners, admins, ..+) |
