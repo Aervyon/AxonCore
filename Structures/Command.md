@@ -73,7 +73,7 @@
 | [permissions.channelsID.bypass] | <code>Array</code> | <code>[]</code> | Being in one of these channels allow the user to use the command, regardless of other permissions |
 | [permissions.staff.needed] | <code>Array</code> | <code>[]</code> | List of bot.staff permissions needed to use the command (they need the other permissions too) |
 | [permissions.staff.bypass] | <code>Array</code> | <code>[]</code> | Having one of these bot.staff permission allow to use the command, regardless of other permissions |
-| Template | <code>Object</code> |  | Template object shortcut [GETTER: axon.configs.template] |
+| template | <code>Object</code> |  | Template object shortcut [GETTER: axon.configs.template] |
 
 <a id="command_new"></a>
 

@@ -10,7 +10,7 @@ All methods useful and usable everywhere.
 [Utils](#Utils)
 - _static_
   - [Utils](#Utils)
-    - [new Utils()](#Utils_new)
+    - [new Utils(axon)](#Utils_new)
 - _instance_
   - [splitMessage(content)](#splitMessage) ⇒ <code>Array.&lt;String&gt;</code> \| <code>String</code>
   - [getPrefix(msg)](#getPrefix) ⇒ <code>String</code>
@@ -42,12 +42,12 @@ All methods useful and usable everywhere.
 
 <a id="utils_new"></a>
 
-#### new Utils()
+#### new Utils(axon)
 Creates an Utils instance.
 
 | Param | Type | Default | Description |
 | --- | --- | --- | --- |
-| client | <code>Object.&lt;AxonClient&gt;</code> |  | AxonClient instance |
+| axon | <code>Object.&lt;AxonClient&gt;</code> |  | AxonClient instance |
 
 <a id="splitmessage"></a>
 
